@@ -4,14 +4,8 @@ version = "0.1.0"
 authors = ["Zola Gonano <zolagonano@protonmail.com>"]
 edition = "2018"
 
-[lib]
-name = "lib"
-path = "src/lib/lib.rs"
-doc = false
-
-[[bin]]
-name = "qrru"
-path = "src/main.rs"
-doc = false
-
 [dependencies]
+qrcode = "0.12.0"
+image = "0.23"
+rqrr = "0.3.2"
+clap = "2.33.2"
