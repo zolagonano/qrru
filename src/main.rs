@@ -6,7 +6,7 @@ use std::fs::File;
 use std::io::Read;
 
 fn main() {
-    let mut app = App::new("qrru: qrcode encoder/decoder")
+    let mut app = App::new("qrru")
         .version("0.1.0")
         .author("Zola Gonano <zolagonano@protonmail.com>")
         .about("Encodes/Decodes qrcodes in the command line")
