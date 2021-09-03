@@ -1,5 +1,10 @@
 # qrru
 
+![b](https://img.shields.io/crates/l/qrru)
+![b](https://img.shields.io/crates/d/qrru)
+![b](https://img.shields.io/crates/v/qrru)
+![b](https://img.shields.io/docsrs/qrru)
+
 qrru is a CLI tool to encode and decode qr-codes
 
 ## Installation:
