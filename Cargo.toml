@@ -3,6 +3,13 @@ name = "qrru"
 version = "0.1.0"
 authors = ["Zola Gonano <zolagonano@protonmail.com>"]
 edition = "2018"
+description = "qrru is a CLI tool to encode and decode qr-codes"
+homepage = "https://github.com/zolagonano/qrru.git"
+repository = "https://github.com/zolagonano/qrru.git"
+keywords = ["qr", "encoder", "decoder"]
+categories = ["command-line-utilities"]
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
 qrcode = "0.12.0"
