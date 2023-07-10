@@ -13,6 +13,6 @@ readme = "README.md"
 
 [dependencies]
 qrcode = "0.12.0"
-image = "0.23"
+image = "0.23.14"
 rqrr = "0.3.2"
-clap = "2.33.2"
+clap = "2.33.3"
