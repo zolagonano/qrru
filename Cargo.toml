@@ -1,8 +1,8 @@
 [package]
 name = "qrru"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Zola Gonano <zolagonano@protonmail.com>"]
-edition = "2018"
+edition = "2021"
 description = "qrru is a CLI tool to encode and decode qr-codes"
 homepage = "https://github.com/zolagonano/qrru.git"
 repository = "https://github.com/zolagonano/qrru.git"
